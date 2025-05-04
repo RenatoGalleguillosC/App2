@@ -95,4 +95,4 @@ Cultivo,"Lechuga","Romana",8.5,"PARCELA-A02","2023-03-10","COSECHADO",["RIEGO:20
 17. Salir
 
 ## Estructura del Proyecto
-- **`App2/`**: Contiene el archivos principal **`App2.java`**, el archivo **`cultivos.csv`** y las carpetas **`models`** y **`services`**
+- **`App2/`**: Contiene el archivos principal **`App2.java`**, y las carpetas, **`utils`** (donde está el archivo .csv), **`models`** y **`services`**
